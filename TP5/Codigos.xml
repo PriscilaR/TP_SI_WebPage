@@ -1,0 +1,141 @@
+<?xml version = "1.0" encoding = "iso-8859-1" ?>
+<?xml-stylesheet type = "text/xsl" href = "xsl/transformacion.xsl"?>
+
+<!DOCTYPE lista_de_codigos [
+<!ELEMENT lista_de_codigos (codigo*)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT n0 (#PCDATA)>
+<!ELEMENT n1 (#PCDATA)>
+<!ELEMENT n2 (#PCDATA)>
+<!ELEMENT n3 (#PCDATA)>
+<!ELEMENT n4 (#PCDATA)>
+<!ELEMENT n5 (#PCDATA)>
+<!ELEMENT n6 (#PCDATA)>
+<!ELEMENT n7 (#PCDATA)>
+<!ELEMENT n8 (#PCDATA)>
+<!ELEMENT n9 (#PCDATA)>
+<!ELEMENT n10 (#PCDATA)>
+<!ELEMENT n11 (#PCDATA)>
+<!ELEMENT n12 (#PCDATA)>
+<!ELEMENT n13 (#PCDATA)>
+<!ELEMENT n14 (#PCDATA)>
+<!ELEMENT n15 (#PCDATA)>
+<!ELEMENT codigo (#PCDATA)>
+]>
+
+<lista_de_codigos>
+<codigo>
+  <nombre>Gray</nombre>
+        <n0>0000</n0>
+        <n1>0001</n1>
+        <n2>0011</n2>
+        <n3>0010</n3>
+        <n4>0110</n4>
+        <n5>0111</n5>
+        <n6>0101</n6>
+        <n7>0100</n7>
+        <n8>1100</n8>
+        <n9>1101</n9>
+        <n10>1111</n10>
+        <n11>1110</n11>
+        <n12>1010</n12>
+        <n13>1011</n13>
+        <n14>1001</n14>
+        <n15>1000</n15>
+</codigo>
+<codigo>
+  <nombre>Glixon</nombre>
+        <n0>0000</n0>
+        <n1>0001</n1>
+        <n2>0011</n2>
+        <n3>0010</n3>
+        <n4>0110</n4>
+        <n5>0111</n5>
+        <n6>0101</n6>
+        <n7>0100</n7>
+        <n8>1100</n8>
+        <n9>1000</n9>
+        <n10>-</n10>
+        <n11>-</n11>
+        <n12>-</n12>
+        <n13>-</n13>
+        <n14>-</n14>
+        <n15>-</n15>
+</codigo>
+<codigo>
+  <nombre>O Brien</nombre>
+  <n0>0000</n0>
+  <n1>0001</n1>
+  <n2>0011</n2>
+  <n3>0010</n3>
+  <n4>0110</n4>
+  <n5>1110</n5>
+  <n6>1010</n6>
+  <n7>1011</n7>
+  <n8>1001</n8>
+  <n9>1000</n9>
+        <n10>-</n10>
+        <n11>-</n11>
+        <n12>-</n12>
+        <n13>-</n13>
+        <n14>-</n14>
+        <n15>-</n15>
+</codigo>
+<codigo>
+  <nombre>Petherick</nombre>
+  <n0>0101</n0>
+  <n1>0001</n1>
+  <n2>0011</n2>
+  <n3>0010</n3>
+  <n4>0110</n4>
+  <n5>1110</n5>
+  <n6>1010</n6>
+  <n7>1011</n7>
+  <n8>1001</n8>
+  <n9>1101</n9>        
+  <n10>-</n10>
+        <n11>-</n11>
+        <n12>-</n12>
+        <n13>-</n13>
+        <n14>-</n14>
+        <n15>-</n15>
+</codigo>
+<codigo>
+  <nombre>Tompkins</nombre>
+  <n0>0000</n0>
+  <n1>0001</n1>
+  <n2>0011</n2>
+  <n3>0010</n3>
+  <n4>0110</n4>
+  <n5>1110</n5>
+  <n6>1111</n6>
+  <n7>1101</n7>
+  <n8>1100</n8>
+  <n9>1000</n9>
+          <n10>-</n10>
+        <n11>-</n11>
+        <n12>-</n12>
+        <n13>-</n13>
+        <n14>-</n14>
+        <n15>-</n15>
+</codigo>
+<codigo>
+  <nombre>Libaw-Craig</nombre>
+  <n0>00000</n0>
+  <n1>00001</n1>
+  <n2>00011</n2>
+  <n3>00111</n3>
+  <n4>01111</n4>
+  <n5>11111</n5>
+  <n6>11110</n6>
+  <n7>11100</n7>
+  <n8>11000</n8>
+  <n9>10000</n9>
+         <n10>-</n10>
+        <n11>-</n11>
+        <n12>-</n12>
+        <n13>-</n13>
+        <n14>-</n14>
+        <n15>-</n15>
+</codigo>
+</lista_de_codigos>
